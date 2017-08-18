@@ -1,0 +1,5 @@
+print("peris wanjiru")
+print("leila hassan")
+print("joyce waithaka")
+print("marlin kavele")
+print("botul yusuf")
